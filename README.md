@@ -1,1 +1,2 @@
-# 2_Machine_N_jobs_problem
+# 2 Machine N jobs problem.
+# Here I'm trying to solve the problem using Johnson's Algorithm.
